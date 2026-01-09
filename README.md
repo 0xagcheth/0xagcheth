@@ -1,16 +1,14 @@
-## Hi there 👋
+## Web3 builder & experimenter
 
-<!--
-**0xagcheth/0xagcheth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and experiment with Web3 Mini Apps and onchain UX.
 
-Here are some ideas to get you started:
+Currently focused on:
+- Base
+- Farcaster Mini Apps
+- interactive experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **cbTARO** — Tarot mini app for Base / Farcaster
+
+### Links
+- X: https://x.com/0xagcheth
