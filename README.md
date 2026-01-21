@@ -8,7 +8,7 @@ Currently focused on:
 - interactive experiments
 
 ### Projects
-- **cbTARO** — Tarot mini app for Base / Farcaster  
+- **cbTARO** — Taro mini app for Base / Farcaster  
   https://github.com/0xagcheth/cbTARO
 
 ### Links
