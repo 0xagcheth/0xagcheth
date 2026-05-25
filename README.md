@@ -14,4 +14,6 @@ Currently focused on **Base**, **Farcaster Mini Apps**, and interactive experime
 
 ---
 
+Built with AI assistance (Claude, Codex)
+
 Feel free to explore the projects or reach out on any platform above.
