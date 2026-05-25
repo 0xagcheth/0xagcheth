@@ -18,5 +18,6 @@ Currently focused on:
 - **Bounceball** — https://remix.gg/g/e40b99f8-a348-4664-b83f-0898bf64102d?ref=F1AB2AFB16
 
 ### Links
+- Base: https://base.app/profile/0xagch
 - Remix: https://remix.gg/r/F1AB2AFB16
 - X: https://x.com/0xagcheth
